@@ -4,7 +4,10 @@ GET http://localhost:3005/pedidos
 GET http://localhost:3005/pedidos
 
 ###
-DELETE http://localhost:3005/pedidos/1
+GET http://localhost:3005/pedidos/
+
+###
+DELETE http://localhost:3005/pedidos/
 
 ###
 POST http://localhost:3005/pedidos
